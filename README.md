@@ -47,6 +47,9 @@ It was built using Power BI with a properly modeled date dimension to enable tim
   👉 https://github.com/M-zamani/sql-analytics
 
 ---
+### 📷 Dashboard Preview
+![Dashboard](dashboard1.png)
+![Filters](dashboard2.png)
 
 ## 👤 Author
 **Mahmoud Zamani**  
